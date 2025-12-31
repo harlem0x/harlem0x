@@ -34,13 +34,6 @@ Sempre em busca de novos desafios que me ajudem a crescer profissionalmente e pe
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![harlem GitHub stats](https://github-readme-stats.vercel.app/api?username=harlem0x&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harlem0x&layout=compact&theme=radical)
-
----
-
 ## 💡 Interesses
 - Desenvolvimento de sistemas web 🌐  
 - Automação de testes ⚙️  
